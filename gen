@@ -1,0 +1,4 @@
+//calibanGenClient frontend/src/main/scala/graphql/Client.scala --genView true
+  //calibanGenClient frontend/src/main/scala/graphql/schema.graphql frontend/src/main/scala/graphql/Client.scala --genView true
+
+  //calibanGenClient http://localhost:8088/api/graphql frontend/src/main/scala/graphql/Client.scala --genView true
