@@ -12,12 +12,12 @@ val scalaJavaTimeVersion = "2.3.0"
 val sttpVersion          = "3.3.13"
 val zioAppVersion        = "0.2.5"
 val zioConfigVersion     = "1.0.6"
-val zioHttpVersion       = "1.0.0.0-RC17"
+val zioHttpVersion       = "1.0.0.0-RC27"
 val zioJsonVersion       = "0.1.5"
 val zioMagicVersion      = "0.3.8"
-val zioVersion           = "1.0.11"
+val zioVersion           = "1.0.14"
 //val calibanVersion       = "1.2.2"
-val calibanVersion = "1.3.3"
+val calibanVersion = "1.4.0"
 
 val sharedSettings = Seq(
   addCompilerPlugin("org.typelevel" %% "kind-projector"     % "0.13.0" cross CrossVersion.full),
